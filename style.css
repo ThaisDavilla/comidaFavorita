@@ -1,0 +1,30 @@
+body{
+  text-align: center;
+  background: linear-gradient(110deg,#9ef01a, #ccff33,#70e000);
+}
+
+h1{
+  color:#9a031e;
+}
+
+h2{
+  color:#041f1e;
+}
+
+p{
+  color:#31572c;
+}
+
+h4{
+  color:#007200;
+}
+
+ul li{
+  color:#006400;
+  list-style:none;
+  }
+
+ol li{
+  color:#006400;
+  list-style:none;
+}
